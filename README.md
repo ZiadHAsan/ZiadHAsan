@@ -12,7 +12,7 @@
  
  🔭 I’m currently working as a **Freelancer**
  
- 🌱 I’m currently Undergaduating at **Electrical & Electornics Engeering and CS5024(harvard)**
+ 🌱 I’m currently Undergaduating at **Electrical & Electornics Engeering(AUST) and CS50x 2024(harvard)**
 
 
 ⚡ Fun fact **We are born with only 2 natural fears: the fear of falling and the fear of loud sounds**
