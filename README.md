@@ -33,8 +33,8 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git,r" /> <br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,express,c,java,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" /> <br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java" /><br>
 </div>
 
 <br/>
